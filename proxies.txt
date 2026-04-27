@@ -1,1 +1,1 @@
-tg://proxy?server=1.1.1.1&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
